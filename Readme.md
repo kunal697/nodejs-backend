@@ -1,3 +1,12 @@
+## Bookstore REST API with File-Based Persistence and Authentication
+
+Objective:
+Build a RESTful API using Node.js and Express for a Bookstore app. It should support CRUD
+operations, file-based data persistence, and token-based user authentication.
+
+## 
+
+
 
 ````
 ## Project Structure
@@ -188,7 +197,7 @@ curl -X POST http://localhost:3000/api/auth/register \
 
 Import the following Postman collection:
 
-**[Postman API Collection (postman-api.json)](./postman-api.json)**
+**[Postman API Collection (postman-api.json)](./Bookstore%20API.postman_collection.json)**
 
 This file contains all the endpoints and can be imported into Postman for testing.
 
